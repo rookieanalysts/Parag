@@ -21,3 +21,7 @@ Assigment for Parag
 ## Task Update -- Durvesh
 
 1. I am currently working on Providing Our Clients section
+
+## Task Update -- Aditya
+
+1. Working on Support and Testimonials section
