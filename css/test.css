@@ -44,6 +44,12 @@
   text-transform: uppercase;
 }
 
+.d-flex button:hover {
+  background: var(--support-section);
+  color: var(--support-text-color);
+  border: 1px solid white;
+}
+
 .testimonials-section {
   padding: var(--section-padding);
 }
