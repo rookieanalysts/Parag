@@ -20,8 +20,7 @@ Assigment for Parag
 
 ## Task Update -- Durvesh
 
-1. I am currently working on Providing Our Clients section
-2. Guys merge my code. Branch name: 'durvesh-code'
+Guys merge my code. Branch name: 'durvesh-code'
 
 ## Task Update -- Aditya
 
