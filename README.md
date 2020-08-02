@@ -26,4 +26,7 @@ Assigment for Parag
 
 ## Task Update -- Aditya
 
-1. Working on Support and Testimonials section
+* Worked on Support and Testimonials section
+1. My code is in aditya branch
+2. I have made testimonials.html and separate test.css file
+3. I have made container class please check if it interferes with durvesh styling during merge.
