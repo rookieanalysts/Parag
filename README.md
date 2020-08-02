@@ -17,3 +17,7 @@ Assigment for Parag
 13. Validate CSS using https://jigsaw.w3.org/css-validator/
 14.  If you are getting errors after validating HTML & CSS then try resolve these errors. 
 15. Share the zip of your project in reply all to this email.
+
+## Task Update -- Durvesh
+
+1. I am currently working on Providing Our Clients section
