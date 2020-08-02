@@ -20,7 +20,9 @@ Assigment for Parag
 
 ## Task Update -- Durvesh
 
-Guys merge my code. Branch name: 'durvesh-code'
+1. Guys merge my code. Branch name: 'durvesh-code'
+2. I have created separate css file, merge it into single file
+3. I have used dummy images as I did not had actual images
 
 ## Task Update -- Aditya
 
