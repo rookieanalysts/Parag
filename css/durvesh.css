@@ -69,13 +69,13 @@
 
 .img-section {
 	display: flex;
-	flex-wrap: wrap;
+	padding: 40px 0 70px;
 }
 
 .features-container {
 	display: flex;
 	justify-content: space-around;
-	margin: 30px 0;
+	margin: 30px 20px;
 }
 
 .feature-spec {
@@ -90,12 +90,34 @@
 	font-weight: 400;
 }
 
+.feature-img {
+	width: 46%;
+	margin: 0 auto;
+}
+
 .feature-content {
 	margin: 0 20px 20px;
 }
 
 .feature-text {
 	line-height: 1.6;
+}
+
+.carousel-section {
+	margin-bottom: 40px;
+}
+
+.carousel-dots {
+	margin-top: -20px;
+}
+
+.carousel-dots span {
+	font-size: 60px;
+	line-height: 0;
+}
+
+.carousel-dots span:first-child {
+	color: red;
 }
 
 
